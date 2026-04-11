@@ -1,0 +1,4 @@
+/* Reset básico e importación del archivo base */
+@import './base.css';
+
+/* Los estilos principales para la aplicación se encuentran ahora directamente en App.vue */
