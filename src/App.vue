@@ -39,6 +39,13 @@ const videos = ref([
     description: '14 de Abril de 2026',
     driveId: '1j8rxSQCCsCxLwLORHrP0ZBfPknBAnB7R',
     thumbnail: portadaFilosofia
+  },
+  {
+    id: 6,
+    title: 'Clase Grabada 6',
+    description: '28 de Abril de 2026',
+    driveId: '1D8NHHiuRnQqtFbaKmFeAbugUcXrASE0f',
+    thumbnail: portadaFilosofia
   }
 ])
 
